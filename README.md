@@ -1,7 +1,9 @@
 💰 Personal Finance Tracker
+
 A simple and efficient Personal Finance App to manage your income, expenses, and view financial reports. Built using React (Vite + Tailwind) for the frontend and Node.js + Express + MongoDB for the backend.
 
 ✅ Features
+
 -Add Income and Expenses with categories
 -View Transaction History
 -Balance Calculation (Income - Expenses)
@@ -11,6 +13,7 @@ A simple and efficient Personal Finance App to manage your income, expenses, and
 -Tested with Postman
 
 🛠 Tech Stack
+
 Frontend: React + Vite + Tailwind CSS
 Backend: Node.js, Express.js
 Database: MongoDB Atlas
