@@ -39,25 +39,31 @@ personal-finance-app/
 ⚡ Installation & Setup
 
 1️⃣ Clone the Repository
+
 git clone https://github.com/YOUR_USERNAME/personal-finance-app.git
 
 2️⃣ Backend Setup
+
 cd backend
 npm install
 
 --Create .env file:
+
 MONGO_URI=your-mongodb-uri
 PORT=5000
 
 --Start server:
+
 npm run dev
 
 3️⃣ Frontend Setup
+
 cd frontend
 npm install
 npm run dev
 
 🧪 API Endpoints
+
 Method	           Endpoint	                   Description
 POST	        /api/transactions	             Add a transaction
 GET	          /api/transactions	            Get all transactions
@@ -68,9 +74,11 @@ DELETE	     /api/transactions/:id	         Delete transaction
 <img width="1883" height="875" alt="image" src="https://github.com/user-attachments/assets/f67418b0-75ce-4c09-8b35-308a86a6368b" />
 
 ✅ How It Works
+
 -User adds transactions (income or expense)
 -App calculates total income, expenses, and balance
 -Reports show category-wise spending in graphs
 
 ✅ Author
+
 Kritika Pandey
