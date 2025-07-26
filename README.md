@@ -65,8 +65,11 @@ npm run dev
 🧪 API Endpoints
 
 Method	           Endpoint	                   Description
+
 POST	        /api/transactions	             Add a transaction
+
 GET	          /api/transactions	            Get all transactions
+
 DELETE	     /api/transactions/:id	         Delete transaction
 
 📸 Screenshots
